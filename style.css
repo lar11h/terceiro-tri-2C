@@ -1,0 +1,20 @@
+body {background-color: black;
+}
+
+h1 {color: white;
+    text-align: center;
+}
+
+h2 {color: white;
+}
+
+h3 {color: white;
+}
+
+h1 {border-width: 5px;
+border-style: solid;
+border-color: purple;}
+
+img {border-width: 5px;
+border-style: solid;
+border-color: purple;}
